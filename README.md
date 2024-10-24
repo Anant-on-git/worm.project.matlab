@@ -8,3 +8,9 @@ Project workflow: <br>
 5. train the network on trainset<br>
 6. classify the test data<br>
 7. analyze the performance<br>
+<br>
+To use the code:<br>
+Import the required data<br>
+Create a table from wormdata.csv<br>
+Then you can copy the code and paste it in the command window<br>
+
